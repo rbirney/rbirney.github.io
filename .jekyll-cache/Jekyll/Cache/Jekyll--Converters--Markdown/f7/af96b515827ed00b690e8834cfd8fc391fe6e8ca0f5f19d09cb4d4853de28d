@@ -1,10 +1,4 @@
----
-layout: page
-title: Teaching
-permalink: /teaching/
----
-
-<section class="ui container segment">
+I"<section class="ui container segment">
   
   <h1>Current Semester One Modules</h1>
   
@@ -122,3 +116,4 @@ permalink: /teaching/
       
   </section>
 </section>
+:ET
