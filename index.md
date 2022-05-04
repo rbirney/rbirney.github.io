@@ -15,12 +15,12 @@ layout: home
             <img src="/assets/me.jpg">
         </div>
         <div class="content">
-            <a class="header">Kristy</a>
+            <a class="header">Rosanne</a>
             <div class="meta">
             <span class="date">Joined in 2013</span>
             </div>
             <div class="description">
-            Kristy is an art director living in New York.
+            Update
             </div>
         </div>
         <div class="extra content">
