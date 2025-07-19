@@ -1,1 +1,7 @@
-# Links to the modules I'm currently teaching
+---
+icon:
+  type: fluent-emoji-high-contrast:woman-teacher
+  color: green
+---
+
+# Current Modules
